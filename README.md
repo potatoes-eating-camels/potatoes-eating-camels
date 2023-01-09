@@ -7,6 +7,7 @@
 - 💞️ I’m looking to collaborate on not being found by the police.
 - 👀 I'm still improving wiki.
 
+```
 -.-- --- ..-
 .-. . .- .-.. .-.. -.--
 -.. ---
@@ -14,3 +15,4 @@
 ..
 .-- --- ..- .-.. -..
 --. .. ...- .
+```
